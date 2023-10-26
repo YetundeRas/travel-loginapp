@@ -2,7 +2,7 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import vector from "./assets/vector.svg";
+import vector from "./assets/Vector.svg";
 import group from "./assets/Group 688.svg";
 import vector1 from "./assets/arrow.svg";
 import group682 from "./assets/Group 682.jpg";
